@@ -23,7 +23,6 @@ Una vez subido, se debe acceder a:
 http://example.org/ramen/tablon.php
 
 Este archivo generará el tablon. Luego tan solo entran a http://example.org/ramen
-_
 
 Para cambiar el nombre del tablon, se debe acceder al archivo tablon.php con un editor de texto web como Brackets, o Notepad++
 
@@ -35,17 +34,15 @@ http://example.org/tutablon/tablon.php?mode=admin
 
 Para cambiar la contraseña de administrador, se debe acceder a tablon.php mediante un editor de texto web y modificar en la linea 19, el valor
 "ADMIN_PASS".
-_
 
 Para editar los banners del tablon, se debe ir a la carpeta "editables".
 
 ATENCIÓN:
 
 Se debe guardar con los mismos nombres, FORMATOS, Y GUARDAR EN LA CARPETA DE LOS BANNERS!!!
-_
+
 Para usar un solo banner estatico, en vez de varios rotativos, se debe cambiar el nombre de "banner_null.php" por "banner.php"
 en la carpeta "genesis/tablon".
-_
 
 Los tags del <head> deben ser cambiados por tus valores.
 
