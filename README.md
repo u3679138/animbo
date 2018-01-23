@@ -44,7 +44,7 @@ Se debe guardar con los mismos nombres, FORMATOS, Y GUARDAR EN LA CARPETA DE LOS
 Para usar un solo banner estatico, en vez de varios rotativos, se debe cambiar el nombre de "banner_null.php" por "banner.php"
 en la carpeta "genesis/tablon".
 
-Los tags del <head> deben ser cambiados por tus valores.
+Los tags del < head > deben ser cambiados por tus valores.
 
 Errores encontrados:
 -------------------
