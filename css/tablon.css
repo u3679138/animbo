@@ -1,0 +1,150 @@
+a:link {
+     text-decoration:none;
+     color:white;
+}
+
+a:hover { 
+    color:black; 
+}
+
+a:visited {
+    color:black;
+}
+
+body {
+    background-color:#ff9933;
+}
+
+tr {
+    font-size:12pt;
+}
+
+td {
+    font-size:12pt;
+}
+
+th {
+    font-size:12pt;
+}
+
+span { 
+    font-size:20pt;
+}
+small {
+    font-size:10pt;
+}
+
+#formulario {
+    background-color:transparent;
+    border-radius: 12px 12px 12px 12px;
+    -moz-border-radius: 12px 12px 12px 12px;
+    -webkit-border-radius: 12px 12px 12px 12px;
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+}
+
+#envio {
+    color:#000000;
+    background-color:#ffffff;
+    border-color:#000000;
+    border-radius:6px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#envio:hover {
+    color:#ffffff;
+    background-color:#000000;
+    border-color:#ffffff;
+    border-radius:6px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#responder {
+    color:#000000;
+    background-color:#ffffff;
+    border-color:#000000;
+    border-radius:6px;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+#responder:hover {
+    color:#ffffff;
+    background-color:#DC143C;
+    border-color:#ffffff;
+    border-radius:6px;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+
+#responder a:link {
+    color:black;
+}
+
+#responder a:visited {
+    color:black;
+}
+
+#responder a:hover {
+    color:black;
+}
+
+#responder a:active {
+    color:black;
+}
+
+#ok a:link {
+    color:black;
+}
+
+#ok a:visited {
+    color:black;
+}
+
+#ok a:hover {
+    color:red;
+}
+
+#ok a:active {
+    color:white;
+}
+
+#ok {
+    font-family:'Nova Square', cursive;
+}
+
+#cargando {
+   font-family:'Nova Square', cursive; 
+}
+
+#posteos {
+    background-color:transparent;
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    font-family:'Nova Square', cursive;
+    
+}
+
+#nombrerepost {
+    font-family:'Nova Square', cursive;
+     color:#117743;
+}
+
+#eliminarpost {
+    font-family:'Nova Square', cursive;
+}
+
+#error {
+    font-family:'Nova Square', cursive;
+    color:#DC143C;
+}
+
+#respuestapng img {
+    text-align:center;
+}
